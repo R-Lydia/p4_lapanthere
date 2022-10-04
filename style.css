@@ -733,6 +733,8 @@ h3 {
 }
 .liste-footer li a{
     color: #333333 !important;
+    display: inline-block;
+    margin: 10px;
 }
 
 
