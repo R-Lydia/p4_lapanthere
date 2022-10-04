@@ -704,6 +704,11 @@ p {
     margin: auto auto auto auto;
 }
 
+.social span{
+    font-size: 35px !important;
+    margin-bottom: 20px;
+}
+
 h2 {
     font-size: 22px;
     line-height: 1.4em;
@@ -721,6 +726,15 @@ h3 {
     margin: auto auto auto auto;
     box-shadow: 0px 0px 0px #000000;
 }
+
+.liste-footer li{
+    font-size: 16px;
+    color: #333333;
+}
+.liste-footer li a{
+    color: #333333 !important;
+}
+
 
 h1 {
     color: #333333!important;
