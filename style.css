@@ -100,7 +100,7 @@ a:hover {
 }
 
 .d-bloc {
-    color: rgba(255, 255, 255, .7);
+    color: rgba(255, 255, 255, .7)!important;
 }
 
 .d-bloc button:hover {
@@ -796,25 +796,21 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #EF6F34;
-}
-
-.bgc-gris {
-    background-color: #333333!important;
+    background-color: #F3976C;
 }
 
 .tc-white {
-    color: #EF6F34!important;
+    color: #F3976C!important;
 }
 
 .btn-atomic-tangerine {
-    background: #EF6F34!important;
-    color: #FFFFFF!important;
+    background: #F3976C!important;
+    /*color: #333333!important;*/
 }
 
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
-    color: #FFFFFF!important;
+    color: #333333!important;
 }
 
 .ltc-white {
@@ -826,7 +822,7 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-    color: #EF6F34!important;
+    color: #F3976C!important;
 }
 
 .ltc-atomic-tangerine:hover {
